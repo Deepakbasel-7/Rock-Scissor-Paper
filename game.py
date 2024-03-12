@@ -44,3 +44,7 @@ while run:
     print("")
     print("Score: Computer "+ str(c)+ "Player " + str(p))
     print("")
+
+Hello 
+
+WOrld
